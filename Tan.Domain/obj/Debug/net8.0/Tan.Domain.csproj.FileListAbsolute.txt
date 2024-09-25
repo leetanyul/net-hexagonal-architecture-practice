@@ -1,0 +1,11 @@
+C:\Users\leetanyul\source\repos\Tan.Api\Tan.Domain\bin\Debug\net8.0\Tan.Domain.deps.json
+C:\Users\leetanyul\source\repos\Tan.Api\Tan.Domain\bin\Debug\net8.0\Tan.Domain.dll
+C:\Users\leetanyul\source\repos\Tan.Api\Tan.Domain\bin\Debug\net8.0\Tan.Domain.pdb
+C:\Users\leetanyul\source\repos\Tan.Api\Tan.Domain\obj\Debug\net8.0\Tan.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leetanyul\source\repos\Tan.Api\Tan.Domain\obj\Debug\net8.0\Tan.Domain.AssemblyInfoInputs.cache
+C:\Users\leetanyul\source\repos\Tan.Api\Tan.Domain\obj\Debug\net8.0\Tan.Domain.AssemblyInfo.cs
+C:\Users\leetanyul\source\repos\Tan.Api\Tan.Domain\obj\Debug\net8.0\Tan.Domain.csproj.CoreCompileInputs.cache
+C:\Users\leetanyul\source\repos\Tan.Api\Tan.Domain\obj\Debug\net8.0\Tan.Domain.dll
+C:\Users\leetanyul\source\repos\Tan.Api\Tan.Domain\obj\Debug\net8.0\refint\Tan.Domain.dll
+C:\Users\leetanyul\source\repos\Tan.Api\Tan.Domain\obj\Debug\net8.0\Tan.Domain.pdb
+C:\Users\leetanyul\source\repos\Tan.Api\Tan.Domain\obj\Debug\net8.0\ref\Tan.Domain.dll
